@@ -1,13 +1,14 @@
 {
-  "version": 10,
-  "updated_at": "2026-04-02T00:00:00Z",
+  "version": 11,
+  "updated_at": "2026-04-08T00:00:00Z",
   "ads": {
+    "master_enabled": true,
     "enabled": true,
     "refresh_minutes": 1,
     "waterfall_order": ["admob", "facebook", "adx"],
     "interstitial_on_click": {
       "enabled": true,
-      "show_every_clicks": 2
+      "show_every_clicks": 3
     },
     "admob": {
       "enabled": true,
